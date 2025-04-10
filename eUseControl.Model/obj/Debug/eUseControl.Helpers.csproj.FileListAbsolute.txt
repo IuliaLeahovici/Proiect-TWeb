@@ -1,0 +1,48 @@
+C:\Users\Milana\OneDrive\Рабочий стол\proiect\App-master\wweb\Biblioteca\eUseControl.Model\bin\Debug\eUseControl.Model.dll.config
+C:\Users\Milana\OneDrive\Рабочий стол\proiect\App-master\wweb\Biblioteca\eUseControl.Model\bin\Debug\eUseControl.Model.dll
+C:\Users\Milana\OneDrive\Рабочий стол\proiect\App-master\wweb\Biblioteca\eUseControl.Model\bin\Debug\eUseControl.Model.pdb
+C:\Users\Milana\OneDrive\Рабочий стол\proiect\App-master\wweb\Biblioteca\eUseControl.Model\bin\Debug\EntityFramework.dll
+C:\Users\Milana\OneDrive\Рабочий стол\proiect\App-master\wweb\Biblioteca\eUseControl.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Milana\OneDrive\Рабочий стол\proiect\App-master\wweb\Biblioteca\eUseControl.Model\bin\Debug\EntityFramework.xml
+C:\Users\Milana\OneDrive\Рабочий стол\proiect\App-master\wweb\Biblioteca\eUseControl.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Milana\OneDrive\Рабочий стол\proiect\App-master\wweb\Biblioteca\eUseControl.Model\obj\Debug\eUseControl.Helpers.csproj.AssemblyReference.cache
+C:\Users\Milana\OneDrive\Рабочий стол\proiect\App-master\wweb\Biblioteca\eUseControl.Model\obj\Debug\eUseControl.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Milana\OneDrive\Рабочий стол\proiect\App-master\wweb\Biblioteca\eUseControl.Model\obj\Debug\eUseCont.031189D9.Up2Date
+C:\Users\Milana\OneDrive\Рабочий стол\proiect\App-master\wweb\Biblioteca\eUseControl.Model\obj\Debug\eUseControl.Model.dll
+C:\Users\Milana\OneDrive\Рабочий стол\proiect\App-master\wweb\Biblioteca\eUseControl.Model\obj\Debug\eUseControl.Model.pdb
+D:\proiectsemestru4\App\wweb\Biblioteca\eUseControl.Model\bin\Debug\eUseControl.Model.dll.config
+D:\proiectsemestru4\App\wweb\Biblioteca\eUseControl.Model\bin\Debug\eUseControl.Model.dll
+D:\proiectsemestru4\App\wweb\Biblioteca\eUseControl.Model\bin\Debug\eUseControl.Model.pdb
+D:\proiectsemestru4\App\wweb\Biblioteca\eUseControl.Model\bin\Debug\EntityFramework.dll
+D:\proiectsemestru4\App\wweb\Biblioteca\eUseControl.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\proiectsemestru4\App\wweb\Biblioteca\eUseControl.Model\bin\Debug\EntityFramework.xml
+D:\proiectsemestru4\App\wweb\Biblioteca\eUseControl.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\proiectsemestru4\App\wweb\Biblioteca\eUseControl.Model\obj\Debug\eUseControl.Helpers.csproj.AssemblyReference.cache
+D:\proiectsemestru4\App\wweb\Biblioteca\eUseControl.Model\obj\Debug\eUseControl.Helpers.csproj.CoreCompileInputs.cache
+D:\proiectsemestru4\App\wweb\Biblioteca\eUseControl.Model\obj\Debug\eUseControl.Helpers.csproj.CopyComplete
+D:\proiectsemestru4\App\wweb\Biblioteca\eUseControl.Model\obj\Debug\eUseControl.Model.dll
+D:\proiectsemestru4\App\wweb\Biblioteca\eUseControl.Model\obj\Debug\eUseControl.Model.pdb
+C:\Users\petra\Desktop\App\wweb\Biblioteca\eUseControl.Model\bin\Debug\eUseControl.Model.dll.config
+C:\Users\petra\Desktop\App\wweb\Biblioteca\eUseControl.Model\bin\Debug\eUseControl.Model.dll
+C:\Users\petra\Desktop\App\wweb\Biblioteca\eUseControl.Model\bin\Debug\eUseControl.Model.pdb
+C:\Users\petra\Desktop\App\wweb\Biblioteca\eUseControl.Model\bin\Debug\EntityFramework.dll
+C:\Users\petra\Desktop\App\wweb\Biblioteca\eUseControl.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\petra\Desktop\App\wweb\Biblioteca\eUseControl.Model\bin\Debug\EntityFramework.xml
+C:\Users\petra\Desktop\App\wweb\Biblioteca\eUseControl.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\petra\Desktop\App\wweb\Biblioteca\eUseControl.Model\obj\Debug\eUseControl.Helpers.csproj.AssemblyReference.cache
+C:\Users\petra\Desktop\App\wweb\Biblioteca\eUseControl.Model\obj\Debug\eUseControl.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\petra\Desktop\App\wweb\Biblioteca\eUseControl.Model\obj\Debug\eUseCont.031189D9.Up2Date
+C:\Users\petra\Desktop\App\wweb\Biblioteca\eUseControl.Model\obj\Debug\eUseControl.Model.dll
+C:\Users\petra\Desktop\App\wweb\Biblioteca\eUseControl.Model\obj\Debug\eUseControl.Model.pdb
+C:\Users\User\Desktop\App\wweb\Biblioteca\eUseControl.Model\bin\Debug\eUseControl.Model.dll.config
+C:\Users\User\Desktop\App\wweb\Biblioteca\eUseControl.Model\bin\Debug\eUseControl.Model.dll
+C:\Users\User\Desktop\App\wweb\Biblioteca\eUseControl.Model\bin\Debug\eUseControl.Model.pdb
+C:\Users\User\Desktop\App\wweb\Biblioteca\eUseControl.Model\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\App\wweb\Biblioteca\eUseControl.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\App\wweb\Biblioteca\eUseControl.Model\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\App\wweb\Biblioteca\eUseControl.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\App\wweb\Biblioteca\eUseControl.Model\obj\Debug\eUseControl.Helpers.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\App\wweb\Biblioteca\eUseControl.Model\obj\Debug\eUseControl.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\App\wweb\Biblioteca\eUseControl.Model\obj\Debug\eUseCont.031189D9.Up2Date
+C:\Users\User\Desktop\App\wweb\Biblioteca\eUseControl.Model\obj\Debug\eUseControl.Model.dll
+C:\Users\User\Desktop\App\wweb\Biblioteca\eUseControl.Model\obj\Debug\eUseControl.Model.pdb
