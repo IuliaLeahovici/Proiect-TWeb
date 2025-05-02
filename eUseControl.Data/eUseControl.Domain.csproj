@@ -55,6 +55,7 @@
     <Compile Include="Entities\Admin\AddUserData.cs" />
     <Compile Include="Entities\Admin\EditBookData.cs" />
     <Compile Include="Entities\Admin\EditUserData.cs" />
+<<<<<<< Updated upstream
     <Compile Include="Entities\Product\BookTable.cs" />
     <Compile Include="Entities\User\Response.cs" />
     <Compile Include="Entities\User\Session.cs" />
@@ -62,6 +63,9 @@
     <Compile Include="Entities\User\UregisterData.cs" />
     <Compile Include="Entities\User\UserMinimal.cs" />
     <Compile Include="Entities\User\UserTable.cs" />
+=======
+    <Compile Include="Enums\URole.cs" />
+>>>>>>> Stashed changes
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
